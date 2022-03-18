@@ -12,8 +12,10 @@ def main():#tenta conexao tcp/ip
         print('Erro: {}'.format(e))
         sys.exit()
     print('Socket criado com sucesso')
-    host_alvo = input('Digite o host ou ip a ser conectado: ')
-    porta_alvo = int(input('Digite a porta a ser conectada: '))
+    host_alvo = input
+    ('Digite o host ou ip a ser conectado: ')
+    porta_alvo = int
+    (input('Digite a porta a ser conectada: '))
 
 
 

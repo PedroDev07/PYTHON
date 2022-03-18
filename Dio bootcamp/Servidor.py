@@ -11,9 +11,9 @@ port = 5432
 
 s.bind((host, port))
 mensagem_1 = '''
-SERVIDOR: Ola cliente, tudo bem e contigo? Como posso te ajudar?'''
-
-
+SERVIDOR: Ola cliente, tudo bem e contigo?
+Como posso te ajudar?
+'''
 while 1:
     dados, end = s.recvfrom(4096)
     if dados: 
