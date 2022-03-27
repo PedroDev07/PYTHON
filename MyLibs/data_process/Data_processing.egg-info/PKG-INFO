@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: Data-processing
+Version: 0.0.1
+Summary: Pacote pessoal para análise de dados
+Home-page: UNKNOWN
+Author: Pedro Lucas
+Author-email: pedrodeveloper7@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# data_processing
+
+Description
+The package data_processing is used to:
+    Processing:
+        - leitura
+        - manipulacao
+    Utils:
+        - Visualization
+## Installation
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install data_processing
+```
+
+## Usage
+
+```python
+from 
+

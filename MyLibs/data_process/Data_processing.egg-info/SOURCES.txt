@@ -1,0 +1,6 @@
+setup.py
+Data_processing.egg-info/PKG-INFO
+Data_processing.egg-info/SOURCES.txt
+Data_processing.egg-info/dependency_links.txt
+Data_processing.egg-info/processamento.py
+Data_processing.egg-info/top_level.txt
